@@ -11,4 +11,6 @@ export class ProductAlertsComponent {
   constructor() {}
 
   ngOnInit(): void {}
+
+  
 }
